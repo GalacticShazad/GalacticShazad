@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @GalacticShazad
+- 👀 I’m interested in Python and front-end web development
+- 🌱 I’m currently learning Git
+- 📫 galacticshazad@gmail.com
+- 😄 Pronouns: he/him
+- 🎉 YouTube channel: https://www.youtube.com/@GalacticShazad
